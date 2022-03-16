@@ -1,2 +1,16 @@
 # sert in some programming languages
- deez nuts
+
+current languages added:
+
+rust
+c++
+c
+spwn
+malbolge
+malb8dge
+javascript
+jsfuck
+brainfuck
+lua
+python
+java
