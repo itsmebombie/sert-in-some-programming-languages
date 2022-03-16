@@ -13,4 +13,5 @@ jsfuck,
 brainfuck,
 lua,
 python,
-java
+java,
+C#, Ruby, TypeScript
