@@ -3,7 +3,10 @@ namespace Sert
     class SertProgram {         
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Sert");
+            static void Astolfo(string str) {
+                System.Console.WriteLine(str);
+            }
+            Astolfo("Hello, sertdfyguhi!");
         }
     }
 }
