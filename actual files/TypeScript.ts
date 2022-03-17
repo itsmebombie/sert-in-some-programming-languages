@@ -1,5 +1,5 @@
-function sert() {
-    console.log("sert");
+function astolfo(str) {
+    console.log(str);
 }
 
-sert();
+astolfo("Hello, sertdfyguhi!");
