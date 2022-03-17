@@ -15,4 +15,5 @@ jsfuck,
 brainfuck,
 lua,
 python,
-java
+java, 
+coffeescript
