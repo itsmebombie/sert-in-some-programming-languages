@@ -4,16 +4,21 @@ every file (in which there are functions) must have a function that is named "as
 
 ## current languages added:
 
-rust,
-c++,
-c,
-spwn,
-malbolge,
-malb8dge,
-javascript,
-jsfuck,
-brainfuck,
-lua,
-python,
-java, 
-coffeescript
+- rust
+- c++
+- c
+- spwn
+- malbolge
+- malb8dge
+- javascript
+- jsfuck
+- brainfuck
+- lua
+- python
+- java 
+- coffeescript
+- elixir
+- shitlang
+- go
+- shellscript
+- swift
