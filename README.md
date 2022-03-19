@@ -22,3 +22,7 @@ every file (in which there are functions) must have a function that is named "as
 - go
 - shellscript
 - swift
+- c#
+- ruby
+- typescript
+
